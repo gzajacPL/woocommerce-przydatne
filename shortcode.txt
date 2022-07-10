@@ -1,0 +1,2 @@
+[products limit="4" columns="4" orderby="rand" on_sale="true" ] - losowe promocje
+[products limit="8" columns="4" orderby="date" order="DESC" visibility="visible"] - najnowsze produkty
